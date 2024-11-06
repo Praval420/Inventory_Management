@@ -66,7 +66,7 @@ function Register() {
         <div className="w-full max-w-md space-y-8  p-10 rounded-lg">
           <div>
             <img
-              className="mx-auto h-12 w-auto"
+              className="mx-auto h-12 w-auto img2"
               src={require("../assets/iiit.png")}
               alt="Your Company"
             />

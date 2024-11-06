@@ -354,5 +354,6 @@ code {
   filter:drop-shadow(0px 0px 12px rgb(179, 6, 179));
 }
 .img2{
-  filter:drop-shadow(0px 0px 12px rgb(4, 78, 4))
+  filter:drop-shadow(0px 0px 12px rgb(4, 78, 4));
+  border-radius: 50%;
 }
